@@ -8,3 +8,7 @@ To run, clone the repo or open the directory of your file and type the following
 
 `python demo.py `
 
+ ### Dependencies:-
+ 
+ - [python 2.7](https://www.google.com/#q=python+2.7)
+- [API.AI](https://github.com/dialogflow/dialogflow-python-client)
